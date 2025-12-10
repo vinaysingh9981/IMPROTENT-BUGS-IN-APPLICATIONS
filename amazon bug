@@ -1,0 +1,72 @@
+#  Amazon Mobile App – Bug Report (Markdown Version)
+1. Bug Title
+
+Customer photo/video does not open in full screen; screen freezes.
+
+2. Environment
+
+Device: iQOO Neo 10R
+
+OS: Android
+
+App: Amazon Shopping
+
+Network: WiFi/Mobile Data
+
+
+3. Module
+
+Product Detail Page → Customer Reviews (Photos & Videos section)
+
+4. Severity
+
+High
+
+5. Priority
+
+Medium
+
+6. Preconditions
+
+A product with customer-uploaded photos/videos must exist.
+
+7. Steps to Reproduce
+
+Open the Amazon mobile application.
+
+Search for any product.
+
+Open the product detail page.
+
+Scroll down to Customer Reviews with Photos/Videos.
+
+Tap on any customer-uploaded image or video.
+
+Observe the behavior of the screen.
+
+8. Expected Result
+
+The selected media should open in full screen.
+
+User should be able to zoom, swipe, play video, and close the view.
+
+9. Actual Result
+
+Full screen does NOT open.
+
+Screen becomes stuck/frozen.
+
+No touch controls work (Back button, swipe, close).
+
+User must minimize or force-close the app.
+
+10. Impact
+
+Users cannot view product quality media.
+
+Affects buying decisions.
+
+Poor user experience.
+
+11. Attachments
+
